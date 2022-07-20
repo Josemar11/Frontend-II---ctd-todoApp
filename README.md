@@ -1,6 +1,6 @@
-# ToDo App
+# Frontend-II---ctd-todoApp
 
-GitPage: https://lucas-ramalho.github.io/todoApp-ctd/
+GitPage: https://josemar11.github.io/Frontend-II---ctd-todoApp/
 
 Este projeto consiste em um pequeno aplicativo de gerenciamento de tarefas, dentro do qual podemos realizar as seguintes atividades:
 
@@ -15,8 +15,8 @@ Este projeto consiste em um pequeno aplicativo de gerenciamento de tarefas, dent
 
 
 
-## Integrantes Grupo 7:
+## Desenvolvido por:
 - Josemar Nascimento - GitHub: https://github.com/Josemar11
 - Ricardo Freitas - GitHub: https://github.com/ricfreittas
 - Lucas Ramalho - GitHub: https://github.com/Lucas-Ramalho
-# Frontend-II---ctd-todoApp
+
