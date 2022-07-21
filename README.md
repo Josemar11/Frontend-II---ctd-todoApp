@@ -14,7 +14,6 @@ Este projeto consiste em um pequeno aplicativo de gerenciamento de tarefas, dent
 - Remover tarefas.
 
 
-
 ## Desenvolvido por:
 - Josemar Nascimento - GitHub: https://github.com/Josemar11
 - Ricardo Freitas - GitHub: https://github.com/ricfreittas
